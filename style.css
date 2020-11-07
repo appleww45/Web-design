@@ -44,6 +44,7 @@ header{
 
 nav ul{
     list-style-type: none;
+     text-decoration: overline underline;
 }
 
 nav ul li{
@@ -141,4 +142,13 @@ center{
     text-align: center;
     word-spacing: 0.6em;
     text-decoration: underline;
+}
+footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding: 20px;
+    color: #4fa570;
+    text-align: center;
 }
