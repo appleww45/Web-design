@@ -1,2 +1,2 @@
-# Web-design
+# Web_design
 웹 디자인 수업 자료 _ 1933180최하늘
