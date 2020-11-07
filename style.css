@@ -1,0 +1,135 @@
+*{
+  text-align: center; 
+    background-color: #f2ffeb;
+}
+
+#logo{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 100x;
+    margin-top: 0px;
+    padding-left:  20px;
+    padding-top:  20px;
+}
+
+#사진{
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    height: 100x;
+    padding-bottom: 20px;
+}
+
+header{
+    text-align: center;   
+}
+
+header{
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+     font-family: NotoSans;
+    font-weight: bold;
+     font-size: x-large;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline;
+    margin: 85px;
+}
+
+nav ul li a{
+    color: #1d1f1b;
+    text-decoration: none;
+}
+
+center{
+    padding-top: 20px;
+}
+
+@font-face{
+    font-family: Spoqa Han Sans Regular;
+    src:url('Spoqa Han Sans Regular.ttf');
+    font-weight: normal; 
+}
+
+@font-face{
+    font-family: NotoSans;
+    src:url('NotoSansCJKkr-Bold.otf');
+    font-weight: normal; 
+}
+
+@font-face{
+    font-family: SeoulNamsanB;
+    src:url('SeoulNamsanB.ttf');
+    font-weight: bold; 
+}
+
+@font-face{
+    font-family: SeoulNamsanL;
+    src:url('SeoulNamsanL.ttf');
+    font-weight: normal; 
+}
+
+.medium{
+    font-size: medium;
+    text-align: center;
+    font-family: SeoulNamsanB;
+    color: #1d1f1b;
+    margin-left: 15px;
+}
+
+.medium2{
+    font-size: medium;
+      text-align: center;
+    color: #75c16f;
+    font-weight: bold;
+}
+
+.large{
+    font-family: NotoSans;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    color: #4fa570;
+    letter-spacing: 0.2em;
+    text-shadow: 1px 1px 5px #9ce349;
+}
+
+.large2{
+    font-family: NotoSans;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    color: #1d1f1b;
+    letter-spacing: 0.2em;
+}
+
+.comming{
+    font-family: NotoSans;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 0.2em;
+    text-shadow: 1px 1px 5px #9ce349;
+ width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #75c16f;
+    padding: 20px;
+
+}
+
+.small{
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 0.6em;
+    text-decoration: underline;
+}
