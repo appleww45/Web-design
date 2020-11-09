@@ -3,7 +3,7 @@ header{
 }
 
 #혁오{
-    padding-top:  20px;
+    padding-top: 20px;
 }
 
 nav ul{
@@ -14,6 +14,7 @@ nav ul{
     margin-right: auto;
     margin-left: auto;
      background-color: #fc1a1a;
+    padding: 10px;
 }
 
 nav ul li{
@@ -31,4 +32,50 @@ nav ul li a{
 
 center{
     padding-top: 20px;
+}
+
+.STORY{
+    font-family: NotoSans;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    color: #1d1f1b;
+}
+
+#혁오2{
+    float: left;
+}
+
+.story{
+    height: 150px;
+    overflow: auto;
+    width: 60%;
+    text-align: left;
+    line-height: 30px;
+    border: 2px solid #fc1a1a;
+    padding: 10px; 
+}
+
+@font-face{
+    font-family: Spoqa Han Sans Regular;
+    src:url('Spoqa Han Sans Regular.ttf');
+    font-weight: normal; 
+}
+
+@font-face{
+    font-family: NotoSans;
+    src:url('NotoSansCJKkr-Bold.otf');
+    font-weight: normal; 
+}
+
+@font-face{
+    font-family: SeoulNamsanB;
+    src:url('SeoulNamsanB.ttf');
+    font-weight: bold; 
+}
+
+@font-face{
+    font-family: SeoulNamsanL;
+    src:url('SeoulNamsanL.ttf');
+    font-weight: normal; 
 }
